@@ -57,29 +57,21 @@ Those programs run in the background. Those read GRRM output files, and construc
 
  These are the input files for search in publication "Exploring the quantum chemical energy landscape with GNN-guided artificial force".
 
- * `Glutathione_ML.com` : Input file for search from a glutathione by GNN/SC-AFIR
- 
- * `Glutathione_RN.com` : Input file for search from a glutathione by Random/SC-AFIR
- 
- * `Tuftsin_ML.com` : Input file for search from a tuftsin by GNN/SC-AFIR
- 
- * `Tuftsin_TF.com` : Input file for search from a tuftsin by GNN/SC-AFIR with transfer learning
- 
- * `Tuftsin_RN.com` : Input file for search from a tuftsin by Random/SC-AFIR
+* `Glutathione_ML.com` : Input file for search from a glutathione by GNN/SC-AFIR
+* `Glutathione_RN.com` : Input file for search from a glutathione by Random/SC-AFIR
+* `Tuftsin_ML.com` : Input file for search from a tuftsin by GNN/SC-AFIR
+* `Tuftsin_TF.com` : Input file for search from a tuftsin by GNN/SC-AFIR with transfer learning
+* `Tuftsin_RN.com` : Input file for search from a tuftsin by Random/SC-AFIR
 
 ## List of output EQs
 
  They are the lists of output EQs file in publication "Exploring the quantum chemical energy landscape with GNN-guided artificial force". Those are xyz format.
 
-  * `Glutathione_EQ_list_ML_[1-5].xyz` : the lists of EQs found in the search from glutathione by GNN/SC-AFIR
-  
-  * `Glutathione_EQ_list_RN_[1-5].xyz` : the lists of EQs found in the search from glutathione by Random/SC-AFIR
-  
-  * `Tuftsin_EQ_list_ML_[1-5].xyz` : the lists of EQs found in the search from tuftsin by GNN/SC-AFIR
-  
-  * `Tuftsin_EQ_list_TF_[1-5].xyz` : the lists of EQs found in the search from tuftsin by GNN/SC-AFIR with transfer learning
-  
-  * `Tuftsin_EQ_list_RN_[1-5].xyz` : the lists of EQs found in the search from tuftsin by Random/SC-AFIR
+* `Glutathione_EQ_list_ML_[1-5].xyz` : the lists of EQs found in the search from glutathione by GNN/SC-AFIR
+* `Glutathione_EQ_list_RN_[1-5].xyz` : the lists of EQs found in the search from glutathione by Random/SC-AFIR
+* `Tuftsin_EQ_list_ML_[1-5].xyz` : the lists of EQs found in the search from tuftsin by GNN/SC-AFIR
+* `Tuftsin_EQ_list_TF_[1-5].xyz` : the lists of EQs found in the search from tuftsin by GNN/SC-AFIR with transfer learning
+* `Tuftsin_EQ_list_RN_[1-5].xyz` : the lists of EQs found in the search from tuftsin by Random/SC-AFIR
  
 
  [1-5] is an index of trial.
