@@ -7,7 +7,7 @@ Citation:
 ## External code for GNN/SC-AFIR
 
 ### Preparation
-Copy codes at folder GRRM input files. Install the necessary packages according to `conda_requirements.txt` file. The all codes has to be at working folder of GRRM. Use the following options in a GRRM input file for using GNN/SC-AFIR.
+Copy codes at folder GRRM input files. Install the necessary packages according to `conda_requirements.txt` file. Python codes need execute permission. The all codes has to be at working folder of GRRM. Use the following options in a GRRM input file for using GNN/SC-AFIR.
 
 ```
 DetailedOutput=ON
