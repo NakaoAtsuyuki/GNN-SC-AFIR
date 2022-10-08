@@ -1,11 +1,10 @@
 # GNN-SC-AFIR
 
-This repository contains GRRM external code, GRRM input and output EQs performed in publication "Exploring the quantum chemical energy landscape with GNN-guided artificial force"
+This repository contains GRRM external code, GRRM input and output EQs performed in publication "Exploring the quantum chemical energy landscape with GNN-guided artificial force". This external code can enhance efficiency of GRRM search by optimizing a direction of artfitial force. Those codes are external codes for GRRM20.
 
 Citation: 
 
 ## External code for GNN/SC-AFIR
-Those codes are external codes for GRRM20.
 
 ### Preparation
 Copy codes at folder GRRM input files. Install the necessary packages according to conda_requirements.txt file. The all codes has to be at working folder of GRRM. Use the following options in a GRRM input file for using GNN/SC-AFIR.
@@ -16,7 +15,7 @@ SubSelectEQ=./SSE.py
 SubPathsGen=./SPG.py
 ```
 
-Start GRRM calculation as normally after that
+Start GRRM calculation as normally after that.
 
 ### Output model and transfer learning
 
