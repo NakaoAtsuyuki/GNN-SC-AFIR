@@ -8,7 +8,7 @@ Citation: 
 
 ### Preparation
 
-Copy codes to the same folder as the GRRM input files. Install the necessary packages according to `conda_requirements.txt` file. Python codes need to the execute permission. All codes have to be in the working folder of GRRM. Add the following options in a GRRM input file for using GNN/SC-AFIR.
+Copy codes to the same folder as the GRRM input files. Install the necessary packages according to `conda_requirements.txt`. Python codes need to the execute permission. All codes have to be in the working folder of GRRM. Add the following options in a GRRM input file for using GNN/SC-AFIR.
 
 ```
 DetailedOutput=ON
